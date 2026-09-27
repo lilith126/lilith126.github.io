@@ -3,7 +3,7 @@
 
 <body>
 <header>
-  <h1 style="color:darkblue">Lina - gooneuse professionnel </h1>
+  <h1 style="color:darkblue; text-align:center">Lina - gooneuse professionnel </h1>
 <em>
   <p>
     Elle commence sa carrière sur scène à la fin des années 1970 avec le théâtre musical de Michael Lonsdale, ainsi que dans des productions de musique et de danse. En 1976, elle rencontre la danseuse et chorégraphe argentine Marcia Moretto avec laquelle elle étudie et se produit à Paris.
