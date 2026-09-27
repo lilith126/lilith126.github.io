@@ -23,7 +23,7 @@
 <p style="color: blue; font-size: 18px;">Ceci est un paragraphe écrit en bleu avec un texte d’une taille de 18px</p> 
   <ul>
     <li>
-      <strong>2021 - Slayage intense cinfinement</strong>
+      <strong>2021 -<span class="text-red"> Slayage intense cinfinement</span></strong>
       </li>
     <ul>
       <li>machin truc</li>
