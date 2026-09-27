@@ -13,6 +13,9 @@
   h2 {
     color:darkgreen;
   }
+.text-red{
+  color:darkred;
+}
 </style>
 </header>
 <section>
@@ -28,7 +31,7 @@
        <li>machin truc</li>
        </ul>
     <li>
-      <strong>2022 -<span style="color:red">Slayage en première générale </span></strong>
+      <strong>2022 -<span class="text-red">Slayage en première générale </span></strong>
     </li>
 <ul>
       <li>machin truc</li>
