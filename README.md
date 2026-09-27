@@ -8,6 +8,7 @@
 <section>
   <h2>Experiences</h2>
 <p style="color:blue; font-size:18px;">Ceci est un paragraphe écrit en bleu avec un texte d’une taille de 18px</p>
+ 
   <ul>
     <li>2021 - Slayage intense cinfinement
     <ul>
