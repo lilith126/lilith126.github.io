@@ -8,7 +8,7 @@
 <a href="mailto:username@exemple.com">Mail</a>
 <a href="tel:0652879139">Téléphone</a>
 <a href="https://linkedin.com/username" target="_blank">LinkedIn</a>
-<a href="file:///C:/Users/pelle/OneDrive/Documents/PNC/cv_lina_pellerin.pdf"download>Télécharger le CV</a>
+<a href="https://github.com/lilith126/cv_lina_pellerin/blob/main/resume_Lina_Pellerin.pdf"download>Télécharger le CV</a>
 
 <hr>
 <em>
