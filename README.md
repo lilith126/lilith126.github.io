@@ -7,7 +7,9 @@
 <hr>
 <a href="mailto:username@exemple.com">Mail</a>
 <a href="tel:0652879139">Téléphone</a>
-<a href="https://linkedin.com/username">LinkedIn</a>
+<a href="https://linkedin.com/username" target="_blank">LinkedIn</a>
+<a href="[cv_lina_pellerin.pdf](https://github.com/user-attachments/files/33629942/cv_lina_pellerin.pdf)"download>Télécharger le CV</a>
+
 <hr>
 <em>
   <p>
