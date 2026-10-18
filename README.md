@@ -17,6 +17,12 @@
   color:darkred;
 }
 </style>
+<!--contact>
+<hr>
+<a href="mailto:username@exemple.com">Mail</a>
+<hr>
+<!--Description>
+
 </header>
 <section>
   <h2>Experiences</h2>
